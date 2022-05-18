@@ -13,8 +13,5 @@
     "carbon-components-svelte": "^0.64.0",
     "svelte": "^3.44.0"
   },
-  "type": "module",
-  "dependencies": {
-    "pnpm": "^7.1.1"
-  }
+  "type": "module"
 }
