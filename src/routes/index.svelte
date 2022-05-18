@@ -30,7 +30,37 @@
     </div>
     <div>
       <label for="">
-        Email
+        Date
+        <input type="date" name="date" />
+      </label>
+    </div>
+        <div>
+      <label for="">
+        Invoice number
+        <input type="number" name="imvoice" />
+      </label>
+    </div>
+        <div>
+      <label for="">
+        Start time
+        <input type="time" name="start" />
+      </label>
+    </div>
+        <div>
+      <label for="">
+        End time
+        <input type="time" name="end" />
+      </label>
+    </div>
+        <div>
+      <label for="">
+        Hourly rate
+        <input type="number" name="rate" />
+      </label>
+    </div>
+        <div>
+      <label for="">
+        Client email
         <input type="email" name="email" />
       </label>
     </div>
